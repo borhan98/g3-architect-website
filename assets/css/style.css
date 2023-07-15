@@ -26,6 +26,18 @@ li {
     font-weight: 600;
     text-transform: capitalize;
 }
+.section_title .title {
+    color: #131313;
+    font-size: 45px;
+    font-weight: 700;
+}
+.section_title .description {
+    color: #727272;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 24px 0 32px;
+}
 /*----------------------------------------
         Header Seciton Start
 -----------------------------------------*/
@@ -78,6 +90,54 @@ li {
 .banner .bnr_photo img {
     width: 100%;
 }
+/*----------------------------------------
+        Header Seciton End
+-----------------------------------------*/
+/*----------------------------------------
+        Team Seciton Start
+-----------------------------------------*/
+.team {
+    margin-top: 85px;
+}
+.team_content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 75px;
+}
+.team_content .members_photo {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+.team .quick_list {
+    font-weight: 500;
+    color: #727272;
+}
+.team .features {
+    color: #FF900E;
+}
+/*----------------------------------------
+        Team Seciton End
+-----------------------------------------*/
+/*----------------------------------------
+        Header Seciton Start
+-----------------------------------------*/
+
+/*----------------------------------------
+        Header Seciton End
+-----------------------------------------*/
+/*----------------------------------------
+        Header Seciton Start
+-----------------------------------------*/
+
+/*----------------------------------------
+        Header Seciton End
+-----------------------------------------*/
+/*----------------------------------------
+        Header Seciton Start
+-----------------------------------------*/
+
 /*----------------------------------------
         Header Seciton End
 -----------------------------------------*/
