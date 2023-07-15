@@ -1,0 +1,64 @@
+@media screen and
+(max-width: 576px) {
+    .container {
+        width: 98%;
+    }
+    .nav {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .nav .logo h2 {
+        font-size: 35px;
+    }
+    .nav .menu li a {
+        font-size: 16px;
+    }
+    .banner {
+        margin-top: 20px;
+    }
+    .bnr_text .bnr_title {
+        font-size: 38px;
+    }
+    .bnr_text .bnr_description {
+        margin: 20px 0 30px;
+    }
+    .btn_common {
+        padding: 12px 18px;
+        font-size: 16px;
+    }
+    .banner .bnr_text {
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (min-width: 576.2px) and (max-width: 767px) {
+    .container {
+        width: 98%;
+    }
+    .nav {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .nav .logo h2 {
+        font-size: 35px;
+    }
+    .nav .menu li a {
+        font-size: 16px;
+    }
+    .banner {
+        margin-top: 20px;
+    }
+    .bnr_text .bnr_title {
+        font-size: 38px;
+    }
+    .bnr_text .bnr_description {
+        margin: 20px 0 30px;
+    }
+    .btn_common {
+        padding: 12px 18px;
+        font-size: 16px;
+    }
+    .banner .bnr_text {
+        margin-bottom: 30px;
+    }
+}
