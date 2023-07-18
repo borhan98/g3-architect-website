@@ -223,5 +223,16 @@ li {
     row-gap: 30px;
 }
 /*----------------------------------------
-        Header Seciton End
+        Footer Seciton Start
 -----------------------------------------*/
+.footer {
+    margin-top: 130px;
+    background: #FFF4E7;
+    padding: 40px 0;
+}
+.footer p {
+    text-align: center;
+    color: #424242;
+    font-size: 20px;
+    font-weight: 400;
+}
